@@ -7,7 +7,8 @@ public class firstclass {
 		System.out.println("tcs tcs");
 		// 2nd try
 		System.out.println("123");
-		// 2nd try tcs
+		// 2nd try tcs 	
+		System.out.println("qwerty");
 	}
 
 }
