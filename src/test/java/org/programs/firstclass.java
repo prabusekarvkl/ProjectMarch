@@ -3,7 +3,7 @@ package org.programs;
 public class firstclass {
 
 	public static void main(String[] args) {
-System.out.println("tcs");
+System.out.println("tcs tcs");
 
 	}
 
